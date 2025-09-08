@@ -90,7 +90,7 @@ The system consists of:
 1. **Clone** the repository:
 
    ```bash
-   git clone https://github.com/mayooear/ai-pdf-chatbot-langchain.git
+   git clone https://github.com/Sarg3n7/ai-pdf-chatbot-langchain.git
    cd ai-pdf-chatbot-langchain
    ```
 
